@@ -1,4 +1,4 @@
-# 🚀 Automated ETL Data Pipeline
+# 🚀 ETL Data Pipeline for Real-Time Crypto Analytics
 
 ## 📌 Overview
 
@@ -70,13 +70,9 @@ python main.py
 
 ---
 
-## 📊 Sample Output
+## 📸 Output
 
-* Top cryptocurrency data with:
-
-  * Name
-  * Current Price
-  * Market Cap
+![Output](output.png)
 
 ---
 
