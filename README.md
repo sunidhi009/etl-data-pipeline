@@ -2,7 +2,11 @@
 
 ## 📌 Overview
 
-This project implements an end-to-end **ETL (Extract, Transform, Load) pipeline** that collects real-time cryptocurrency data from an external API, processes it, and stores it in a structured format for analysis.
+This project implements an end-to-end **ETL (Extract, Transform, Load) pipeline** that collects real-time cryptocurrency data from an external API, processes it, and stores it in a structured format for analysis
+
+## 🏗️ Architecture
+
+API → extract.py → transform.py → load.py → CSV Output
 
 ---
 
